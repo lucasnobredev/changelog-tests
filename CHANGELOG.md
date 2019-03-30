@@ -1,4 +1,14 @@
-### testando changelog em PR (HEAD -> feature/teste-pr)
+### new test (HEAD -> feature/teste-pr)
+>Fri, 29 Mar 2019 22:21:56 -0300
+
+>Author: Lucas Nobre (lucasnobredev@outlook.com)
+
+>Commiter: Lucas Nobre (lucasnobredev@outlook.com)
+
+
+
+
+### testando changelog em PR (origin/feature/teste-pr)
 >Fri, 29 Mar 2019 22:19:44 -0300
 
 >Author: Lucas Nobre (lucasnobredev@outlook.com)
