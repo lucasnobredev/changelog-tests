@@ -1,4 +1,14 @@
-### teste 3 (HEAD -> master)
+### testando changelog em PR (HEAD -> feature/teste-pr)
+>Fri, 29 Mar 2019 22:19:44 -0300
+
+>Author: Lucas Nobre (lucasnobredev@outlook.com)
+
+>Commiter: Lucas Nobre (lucasnobredev@outlook.com)
+
+
+
+
+### teste 3 (origin/master, origin/HEAD, master)
 >Fri, 29 Mar 2019 22:13:36 -0300
 
 >Author: Lucas Nobre (lucasnobredev@outlook.com)
@@ -8,7 +18,7 @@
 
 
 
-### novo teste (origin/master, origin/HEAD)
+### novo teste
 >Fri, 29 Mar 2019 22:00:12 -0300
 
 >Author: Lucas Nobre (lucasnobredev@outlook.com)
